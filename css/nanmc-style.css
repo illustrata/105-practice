@@ -1,6 +1,6 @@
 body {
 	font-family: 'Magra', sans-serif;
-	background: url("../img/graffiti-ShonEjai.jpg") #b9ac9a no-repeat;
+	background: url("https://pixabay.com/get/e831b40f2ffd093ed1534705fb094797ea74e6d718b50c4090f5c279a5e8b5b8d9/graffiti-1450798_1920.jpg") #b9ac9a no-repeat;
 	background-size: cover;
 	font-size: 16px;
 	line-height: 1.5em;
@@ -20,7 +20,7 @@ header {
 }
 header a {
 	font-size: .7em;
-	color:
+	color: 
 }
 
 h1 {
@@ -60,15 +60,14 @@ h4 {
 }
 
 footer {
-	/*background-color: #ffcce0;*/
 	padding-top: 15px;
 	padding-bottom: 15px;
 	text-align: center;
-	clear: both;
 }
 
 footer p {
 	color: #837a75;
+	font-size: .8em;
 }
 
 a {

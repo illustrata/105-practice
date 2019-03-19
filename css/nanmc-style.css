@@ -1,0 +1,84 @@
+body {
+	font-family: 'Magra', sans-serif;
+	background: url("../img/graffiti-ShonEjai.jpg") #b7b381 no-repeat;
+	background-size: cover;
+	font-size: 16px;
+	line-height: 1.5em;
+	color: #605b56;
+}
+
+#container {
+	width: 50%;
+	margin: 5%;
+	background: #edbf8fab;
+}
+
+header {
+	/*background-color: #b3ffff;*/
+	padding-top: 4%;
+	text-align: center;
+}
+header a {
+	font-size: .7em;
+	color:
+}
+
+h1 {
+	font-family: 'Arima Madurai', cursive;
+	font-size: 2.3em;
+	margin: 7%;
+	line-height: 1.3em;
+}
+
+#all-advice p {
+	padding: 0 11% 2%;
+}
+
+h4 {
+	font-family: 'Magra', sans-serif;
+	font-size: 1.8em;
+	text-align: center;
+	margin: .9em;
+}
+#advice1 {
+	background-color: #d1ca98;
+	padding: 0 20px;
+	margin: 20px auto;
+	border: .5px solid #b7b381;
+	border-radius: 1em;
+	width: 80%;
+}
+
+#advice2 {
+	background-color: #d1ca98;
+	margin: 0 auto;
+	padding: 0 20px;
+	border: .5px solid #b7b381;
+	border-radius: 1em;
+	width: 80%;
+}
+
+footer {
+	/*background-color: #ffcce0;*/
+	padding-top: 15px;
+	padding-bottom: 15px;
+	text-align: center;
+	clear: both;
+}
+
+footer p {
+	color: #837a75;
+}
+
+a {
+	color: #605b76;
+	text-decoration: none;
+
+}
+a:hover {
+	color: #d1ca98;
+}
+
+.smcaps {
+	text-transform: capitalize;
+}

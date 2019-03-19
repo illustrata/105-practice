@@ -1,6 +1,6 @@
 body {
 	font-family: 'Magra', sans-serif;
-	background: url("../img/graffiti-ShonEjai.jpg") #b7b381 no-repeat;
+	background: url("../img/graffiti-ShonEjai.jpg") #b9ac9a no-repeat;
 	background-size: cover;
 	font-size: 16px;
 	line-height: 1.5em;
@@ -25,6 +25,7 @@ header a {
 
 h1 {
 	font-family: 'Arima Madurai', cursive;
+	color: #7f8a5a;
 	font-size: 2.3em;
 	margin: 7%;
 	line-height: 1.3em;

@@ -1,6 +1,6 @@
 body {
 	font-family: 'Magra', sans-serif;
-	background: url("https://pixabay.com/get/e831b40f2ffd093ed1534705fb094797ea74e6d718b50c4090f5c279a5e8b5b8d9/graffiti-1450798_1920.jpg") #b9ac9a no-repeat;
+	background: url("https://illustrata.net/nm-img/graffiti-pixabay-ShonEjai.jpg") #b9ac9a no-repeat;
 	background-size: cover;
 	font-size: 16px;
 	line-height: 1.5em;
@@ -77,8 +77,4 @@ a {
 }
 a:hover {
 	color: #d1ca98;
-}
-
-.smcaps {
-	text-transform: capitalize;
 }
